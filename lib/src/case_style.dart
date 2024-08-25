@@ -1,7 +1,6 @@
-﻿enum CaseStyle
-{
-    titleCase,
-    lowerCase,
-    upperCase,
-    camelCase
+﻿enum CaseStyle {
+  titleCase,
+  lowerCase,
+  upperCase,
+  camelCase
 }

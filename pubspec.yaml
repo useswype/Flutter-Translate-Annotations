@@ -1,8 +1,8 @@
-name: flutter_translate_annotations
-description: Defines the annotations used by flutter_translate_gen to create statically-typed localization keys.
-version: 2.1.0
-homepage: https://bratan.me
-repository: https://github.com/bratan/flutter_translate_annotations
+name: flutter_translate_codegen_annotations
+description: Defines the annotations used by flutter_translate_codegen to create statically-typed localization keys.
+version: 1.0.0
+homepage: https://www.swypex.com
+repository: https://github.com/bratan/flutter_translate_codegen_annotations
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
